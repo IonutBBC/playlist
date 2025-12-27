@@ -1,4 +1,5 @@
 const songs = [
+  "Raul Talent - Talentul ala fin",
   "Jador x Carmen de la Salciua - Ce faci ești bine.mp3",
   "Bogdan DLP - Aladam.mp3",
   "BODO x SUSANU - Duduie duduia.mp3",
@@ -96,6 +97,7 @@ setInterval(() => {
         b.style.background = `hsl(${Math.random()*360},100%,60%)`;
     });
 }, 1200);
+
 
 
 
