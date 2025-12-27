@@ -1,5 +1,5 @@
 const songs = [
-  "Florin Salam & Cocos de la Calarasi - Vecina mai dulce ca amandina",
+  "Florin Salam & Cocos de la Calarasi - Vecina mai dulce ca amandina.mp3",
   "Dani Mocanu Florin Cercel - Perdoname.mp3",
   "BogdanDLP - Banii Evantai.mp3",
   "Raul Talent - Talentul ala fin.mp3",
@@ -101,6 +101,7 @@ setInterval(() => {
         b.style.background = `hsl(${Math.random()*360},100%,60%)`;
     });
 }, 1200);
+
 
 
 
